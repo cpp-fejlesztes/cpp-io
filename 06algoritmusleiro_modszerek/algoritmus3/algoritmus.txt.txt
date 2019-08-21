@@ -1,6 +1,0 @@
-Program téglalap
-	Be: a,b
-	t=a*b
-	k=2*(a+b)
-	Ki: t,k
-Program vége
