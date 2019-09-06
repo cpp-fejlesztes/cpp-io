@@ -8,16 +8,16 @@ int main()
     int y=2000;
     int z=x+y;
 
-    cout << "A havi bevétel " <<z<<" forint."<< endl;
+    cout << "A havi bevÃ©tel " <<z<<" forint."<< endl;
 
     float a=2.5;
     float b=3.7;
-    float k=2*x+2*y;
+    float k=2*a+2*b;
 
-    cout<<"A szoba kerülete "<<k<< " méter."<<endl;
+    cout<<"A szoba kerÃ¼lete "<<k<< " mÃ©ter."<<endl;
 
     char kapu='c';
-    cout<< "Ön a "<<kapu<< " kapun lépett be.";
+    cout<< "Ã–n a "<<kapu<< " kapun lÃ©pett be.";
 
 
     return 0;
